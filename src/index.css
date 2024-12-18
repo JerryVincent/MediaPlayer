@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: black !important;
+  font-family: "Sour Gummy", sans-serif;
+  -ms-overflow-style: none;
+}
+@media(max-width:600px){
+  #h{
+    display: none;
+  }
+}
